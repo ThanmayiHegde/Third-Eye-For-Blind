@@ -11,7 +11,7 @@ and it can function very accurately and they only need a very little
 training to use it.
 
 # Components Required :
-1) Arduino Nano
+1) Arduino Nano and Uno
 2) Ultrasonic Sensors HC-SR04
 3) Breadboard
 4) Vibrating Motor
