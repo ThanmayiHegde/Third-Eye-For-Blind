@@ -1,4 +1,4 @@
-# Third-Eye-For-Blind
+# THIRD-EYE-FOR-BLIND
 Third eye for people who are blind is an innovation which helps the blind people to navigate with speed and confidence by detecting the nearby obstacles using the help of ultrasonic waves and notify them with buzzer sound or vibration.
 
 * The aim of the project is to develop more efficient way to
@@ -33,11 +33,11 @@ training to use it.
 •	To develop a Kit for visually impaired people so that it helps them in getting out through Ommetaphobia and try being one among all. 
 
 # SYSTEM DESIGN OF THE PROJECT: 
-ARDUINO: There are two required functions in an Arduino sketch, setup() and loop().Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online.  
-HC-SR04 ULTRASONIC SENSOR MODULE: The HC-SR04 Ultrasonic Distance 
+ * ARDUINO: There are two required functions in an Arduino sketch, setup() and loop().Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online.  
+ * HC-SR04 ULTRASONIC SENSOR MODULE: The HC-SR04 Ultrasonic Distance 
 Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects you have which require you to avoid objects, by detecting how close they are you can steer away from them.
-C/C++: The code for Arduino board interface is written in C or C++. 
-PIEZO BUZZER: A piezo buzzer works by applying an alternating voltage to the piezoelectric ceramic material. The introduction of such an input signal causes the piezoceramic to vibrate rapidly, resulting in the generation of sound waves
+ * C/C++: The code for Arduino board interface is written in C or C++. 
+ * PIEZO BUZZER: A piezo buzzer works by applying an alternating voltage to the piezoelectric ceramic material. The introduction of such an input signal causes the piezoceramic to vibrate rapidly, resulting in the generation of sound waves
 
 
 
